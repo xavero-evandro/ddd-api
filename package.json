@@ -1,7 +1,7 @@
 {
   "name": "04-clean-domain",
   "version": "1.0.0",
-  "description": "Design dirigido à domínio",
+  "description": "DDD Approach",
   "main": "index.js",
   "scripts": {
     "test": "vitest run",
